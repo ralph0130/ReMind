@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "../Group1_ReMind website - Copy"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Group1_ReMind website"
+    }
+}
